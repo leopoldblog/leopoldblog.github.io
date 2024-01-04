@@ -1,7 +1,7 @@
 ---
 title: Multimodality
 tags: [Paper Reading, Multimodality, New Topics]
-style: border
+style:fill
 color: primary
 description: A quick introduction to Multimodality.
 ---
