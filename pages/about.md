@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 weight: 3
+external_url: https://github.com/leopoldwhite/leopoldwhite.github.i
 ---
 # **About Me**
 
