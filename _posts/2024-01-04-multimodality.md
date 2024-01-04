@@ -1,9 +1,9 @@
 ---
-title: Awesome Title
- tags: [TAG 1, TAG 2]
+title: Multimodality
+ tags: [Paper Reading, Multimodality]
  style: fill
  color: primary
- description: Write post description here, or it will be the first 25 words of the post's body.
+ description: A short introduction of Multimodality and LMMs.
 ---
 # Data Modalities
 
