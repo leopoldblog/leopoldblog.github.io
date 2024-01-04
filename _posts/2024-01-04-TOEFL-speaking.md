@@ -1,9 +1,10 @@
 ---
-title: Topics in TOEFL Speaking
-tags: [TOEFL]
+title: How to undo your git failure?
+tags: [External Post, Git]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. Last Update: Jan 4, 2024.
+description: Using `git reflog` and `git reset` to save your code.
+external_url: https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74
 ---
 
 # Tier 1
