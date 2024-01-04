@@ -1,10 +1,9 @@
-
 ---
 title: Topics in TOEFL Speaking Task
-tags: [Notes, Paper Reading, Multimodality]
+tags: [TOEFL]
 style: fill
 color: warning
-description: Topics of different tiers in TOEFL speaking task. Last Update: Jan 4, 2024
+description: Topics of different tiers in TOEFL speaking task. Last Update: Jan 4, 2024.
 ---
 # Tier 1
 
