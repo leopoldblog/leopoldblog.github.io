@@ -5,8 +5,6 @@ title: Awesome Title
  color: primary
  description: Write post description here, or it will be the first 25 words of the post's body.
 ---
-
-
 # Data Modalities
 
 - Audio to Image: mel spectrograms
