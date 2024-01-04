@@ -5,6 +5,7 @@ tags: [Notes, Paper Reading, Multimodality]
 style: fill
 color: warning
 description: Topics of different tiers in TOEFL speaking task. Last Update: Jan 4, 2024
+external_url: 
 ---
 # Tier 1
 
