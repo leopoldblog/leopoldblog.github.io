@@ -1,6 +1,6 @@
 ---
 title: Some Notes of Multimodality
-tags: [Notes, Paper Reading, ]
+tags: [Notes, Paper Reading]
 style: fill
 color: primary
 description: Some notes of multimodality and LMMs, with a reading list.
