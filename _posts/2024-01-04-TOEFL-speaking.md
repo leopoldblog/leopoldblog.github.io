@@ -1,9 +1,9 @@
 ---
 title: Topics in TOEFL Speaking
-tags: [External Post, Git]
+tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. Last Update Jan 4, 2024
+description: Topics in TOEFL Speaking. (Last Update on Jan 4, 2024)
 ---
 
 # Tier 1
