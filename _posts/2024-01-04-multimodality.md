@@ -2,7 +2,7 @@
 title: Some Notes of Multimodality
 tags: [External Post, Git]
 style: fill
-color: warning
+color: primary
 description: Some notes of multimodality and LMMs, with a reading list.
 ---
 # Data Modalities
