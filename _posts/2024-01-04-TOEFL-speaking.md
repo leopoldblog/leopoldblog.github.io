@@ -63,6 +63,24 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 7, 2024)
 
 ## Money Management
 
+- 万能思路：某种选择可以省钱
+- Reasons
+  - Why we need save money
+    - saving money -> factors -> college students
+    - not financially independent -> parent -> tuition and living expenses
+    - others part-time job
+    - try to save money e.g. watch movies at home
+    - lower financial burden of either their parents or themselves
+  - The advantages of saving money
+    - students -> save money -> uncertainties / rainy days
+    - extra money saved -> peace of mind & more independent
+    - e.g. be able to travel freely as they wish / holiday
+    - otherwise, struggle for money, ask people for help -> embarrassing
+- 万能答案
+  - Personally Speaking, I prefer do download movies and watch them at home for the following two reasons.
+  - First, saving money is allways an important factor for any college student, because many of them are not financially independent. Their parents might support their tuition and living expenses for the most part r some students make money through part-time job. Therefore, trying to save money by watching movies at home can lower the financial burden of either their parents or themselves.
+  - Another reason for not watching movies in cinema is that students need to save money for uncertainties. And the extra money saved can provide them with a peace of mind and make them become independent. For example, they can travel freely as they wish in holiday. Otherwise, they have to struggle for money or as people for help, which can be very embarrassing.
+
 ## Cell phones
 
 ## Character
