@@ -85,6 +85,15 @@ description: Some notes of LLM Agents (the blog of Lilian Weng)
     - task planner to select models available in HuggingFace platform
       - according to the model descriptions and summarize the response based on the execution results.
 
+## Challenges
+
+* **Finite context length**
+  * Although vector stores and retrieval can provide access to a larger knowledge pool, their representation power is not as powerful as full attention.
+* **Challenges in long-term planning and task decomposition**
+  * LLMs struggle to adjust plans when faced with unexpected errors
+* **Reliability of natural language interface**
+  * LLMs may make formatting errors and occasionally exhibit rebellious behavior (e.g. refuse to follow an instruction).
+
 ## References
 
 Weng, Lilian. (Jun 2023). LLM-powered Autonomous Agents". Lil’Log. https://lilianweng.github.io/posts/2023-06-23-agent/.
