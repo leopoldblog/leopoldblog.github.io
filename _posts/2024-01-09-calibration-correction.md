@@ -82,11 +82,37 @@ description: Some notes of calibration (self evaluation, self-correction)
   - AUC
     - the area under the curve of selective accuracy and coverage
 - Datasets
+  - TriviaQA
+    - contains 650k question-answer pairs gathered by trivia enthusiasts
+  - SciQ
+    - contains approximately 14k crowdsourced science exam questionanswer pairs
+  - TruthfulQA
+    - contains 817 questions designed to test language models’ tendency to mimic human falsehoods
 - Evaluation protocol
+  - use either GPT-4 or GPT-3.5 to evaluate whether a response is essentially equivalent to
+    the ground truth answer
 - Methods
+  - Sampling Estimation
+    - Label prob.
+    - ‘Is True’ prob.
+  - Verbalization: the model expresses its confidence in token space
+    - Verb. 1S top-k
+      - produce k guesses and a probability that each is correct all in a single response
+      - take the highest-probability prediction and its associated probability as the model’s output and confidence
+    - Verb. 2S top-k
+      - the model is first asked to provide only its answers
+      - and afterwards, in a second round of dialogue, asked to assign probabilities of correctness to each answer.
+    - Verb. 2S CoT
+      - uses a chain-of-thought prompt before giving a single answer
+  - Ling. 1S-human
+    - prompted to assign confidences to its guesses by choosing from a set of linguistic expressions of uncertainty
+      - {Almost certain, Likely, . . . , Almost no chance}
+  - Ling. 1S-opt.
+    - uses a held out set of calibration questions and answers to compute the average accuracy for each likelihood expression, using these ‘optimized’ values instead.
 
 
 ## Results
 
-
-## Discussion
+- Large RLHF-LMs can often directly verbalize better-calibrated confidences (either a numerical confidence probability or an expression such as ‘highly likely’) than the models’ conditional probabilities.
+- Language models can express their uncertainty with numerical probabilities as well or better than with words, which is surprising in light of long-standing difficulties in representing numbers in language models
+- Chainof-thought prompting does not improve verbalized calibration

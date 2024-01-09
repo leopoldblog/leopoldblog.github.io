@@ -83,6 +83,25 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 7, 2024)
 
 ## Cell phones
 
+- 万能思路：改变我们的生活的两个方面：方便和娱乐；送礼物；国家/社会发展
+- Reasons
+  - Convenient
+    - small & portable
+    - use anywhere and anytime
+    - e.g. text message, wechat with friends, go online shopping or banking
+    - surf online for information or check e-mails without need of computer
+  - Entertainment
+    - download games, movies, e-books -> cell phone
+    - play with cell phone -> fun and relax
+    - important esp. after a day's work
+    - allay tension
+  - cell phones -> life easier and more comfortable
+- 万能答案
+  - Personally speaking, I think cell phones have greatly changed our life in the past 10 years. And I have two reasons.
+  - First, cell phones are very convenient to our life, because they have been designed smaller and more portable than before. So we can use them anywhere and anytime we want. For instance, we can text message, WeChat with friends, go online shopping or banking. Most importantly, we can surf online for information or check e-mails without having computers
+  - Also, cell phones now are more entertaining and intelligent than before, because we can download games, movies, and e-books on our cell phones. Playing with cell phones is fun and can relax, which is very important for us especially after a day's work. We are able to allay our tension.
+  - In short, cell phones have made our life easier and more comfortable than before.
+
 ## Character
 
 ## Internet
