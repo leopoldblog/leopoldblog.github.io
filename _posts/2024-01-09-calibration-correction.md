@@ -22,6 +22,7 @@ description: Some notes of calibration (self evaluation, self-correction)
     - ECE is calculated as a weighted average of the accuracy/prediction error across the bins
 
       - weighted on the relative number of samples in each bin.
+    - ![1704770526490](image/2024-01-09-calibration-correction/1704770526490.png)
     - $$
       ECE = \sum_{m=1}^{M} \frac{\mathopen| B_m \mathclose |}{n} \mathopen| acc(B_m) - conf(B_m)\mathclose|
       $$
