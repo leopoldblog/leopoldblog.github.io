@@ -106,7 +106,7 @@ description: Some notes of the InstructGPT paper and RLHF. (not complete)
     - offers building blocks for fine-tuning and evaluating LLMs with a wide variety of RL algorithms (PPO, NLPO, A2C and TRPO), reward functions and metrics.
 - Datasets
 
-  - There is a large[dataset](https://huggingface.co/datasets/Anthropic/hh-rlhf) created by Anthropic available on the Hub.
+  - There is a large [dataset](https://huggingface.co/datasets/Anthropic/hh-rlhf) created by Anthropic available on the Hub.
 
 ## What’s next for RLHF?
 
