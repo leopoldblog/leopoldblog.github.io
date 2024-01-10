@@ -1,6 +1,6 @@
 ---
 title: Some Notes of LLM Agents
-tags: [Notes, Paper Reading,LLMs]
+tags: [Notes, Paper Reading, LLMs]
 style: fill
 color: primary
 description: Some notes of LLM Agents (the blog of Lilian Weng)
