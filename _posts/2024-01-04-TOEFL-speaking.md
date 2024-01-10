@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Jan 9, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Jan 10, 2024)
 ---
 # Tier 1
 
@@ -103,6 +103,24 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 9, 2024)
   - In short, cell phones have made our life easier and more comfortable than before.
 
 ## Character
+
+- 万能思路：人物及特质
+- Reasons
+  - Being encouraging and optimistic
+    - encouragement -> important -> me
+      - I feel miserable when facing what I cannot contral in both life & study
+    - father -> strong & brave -> face & overcome challenge
+    - I feel comfortable & joyful
+    - I -> stronger & confident > before
+  - Kind & friendly
+    - not blame me when I make mistakes
+    - provide -> advice & supports when I am confused in my life
+    - I've learned a lot from his advice and experience
+    - I'd like to spend time with him
+- 万能答案
+  - Well, the person I want to learn more about is my father. And I have the following reasons.
+  - The first reason is that he is encouraging and very optimistic, and these qualities are very important to me, because I always feel miserable when facing what I cannot control in both my life and study. My father encourages me to be strong and brave to face challenge. And I feel comfortable and joyful through his encouragement and become stronger and more confident than before.
+  - Also, he is very kind and friendly. For instance, he never blames me when I make mistakes, instead he always provides me with advice and supports when I am confused in my life. Since I've learned a lot from his advice and experience, I'd like to spend time with him and learn more from him.
 
 ## Internet
 
