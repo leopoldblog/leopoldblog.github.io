@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Jan 10, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Jan 11, 2024)
 ---
 # Tier 1
 
@@ -123,6 +123,27 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 10, 2024)
   - Also, he is very kind and friendly. For instance, he never blames me when I make mistakes, instead he always provides me with advice and supports when I am confused in my life. Since I've learned a lot from his advice and experience, I'd like to spend time with him and learn more from him.
 
 ## Internet
+
+### 第一组：线上学习的优势
+
+- 万能思路：线上学习高效且方便
+- Reasons
+  - Fast & efficient way of learning
+    - plenty of info -> available online
+    - find info & be responded -> few minutes
+    - not waste time -> make appointments or wait for office hour
+    - time saved -> more works done
+  - Comfortable & convenient
+    - online study -> no fixed location
+    - not travel -> school of library -> study
+    - very convenient, esp. live far away from campus
+    - make own schedule
+    - study anywhere and anytime, e.g. cafe
+    - learning -> fun & comfortable
+- 万能答案
+  - Personally speaking, I believe college students should browse online to get the answer because of the following reasons.
+  - First, searching materials online is a fast and efficient way of learning. Since there is plenty of information available on the Internet, students can find the resources they need and thus be responded in a few minutes. Therefore, they don't need to make appointments or wait for office hour. And the time saved can enable them to get more work done.
+  - Also, online study is comfortable and convenient. Since it doesn't require a fixed location, students don't need to travel to school or library to study, which is very convenient especially for those living far away from the campus. So they can make their own schedule and study anywhere and anytime they want. Learning in this way is fun and comfortable.
 
 ## Part-time Job
 
