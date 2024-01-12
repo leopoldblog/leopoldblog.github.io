@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Jan 11, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Jan 12, 2024)
 ---
 # Tier 1
 
@@ -144,6 +144,30 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 11, 2024)
   - Personally speaking, I believe college students should browse online to get the answer because of the following reasons.
   - First, searching materials online is a fast and efficient way of learning. Since there is plenty of information available on the Internet, students can find the resources they need and thus be responded in a few minutes. Therefore, they don't need to make appointments or wait for office hour. And the time saved can enable them to get more work done.
   - Also, online study is comfortable and convenient. Since it doesn't require a fixed location, students don't need to travel to school or library to study, which is very convenient especially for those living far away from the campus. So they can make their own schedule and study anywhere and anytime they want. Learning in this way is fun and comfortable.
+
+
+### 第二组：网络信息丰富了现代人的生活
+
+- 万能思路：网络、电子书使人阅读得更多，网络信息对生活带来的改变
+- Reasons
+- more info
+  - more books, clips, short messages -> available online
+  - people -> chance -> more info > before
+  - e.g once open a news clip or a fiction online, find more links related to your insterested areas
+
+    - drive you to read more
+  - many resources online free
+  - read as much as you want
+- convenient
+  - technology innovation -> reading -> easy and convenient
+  - e-books device (iPad or kindle) -> easy to carry
+  - thousands of books in arm all day
+  - read anywhere and any time
+  - maximized frequency of reading
+- 万能答案
+  - Personally speaking, I believe people will read more in the future.
+  - First, now there are more books, new clips, and shot messages available online, which provide people with more chance to access to more information than before. For instance, once you opne up a news clip pr a fiction story you find interesting on the Internet, more links related to your interested ares will come to you and drive you to read more. Plus, many resources are free online; you can read as much as you want.
+  - Also, reading has become easy and convenient thanks to the technology innovation. For example, e-book devices like iPad or kindle make it possible for people to carry thousands of books in one hand all day long, so people can read as they go, and the frequency of reading maximized than before.
 
 ## Part-time Job
 
