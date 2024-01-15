@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Jan 12, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Jan 15, 2024)
 ---
 # Tier 1
 
@@ -145,7 +145,6 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 12, 2024)
   - First, searching materials online is a fast and efficient way of learning. Since there is plenty of information available on the Internet, students can find the resources they need and thus be responded in a few minutes. Therefore, they don't need to make appointments or wait for office hour. And the time saved can enable them to get more work done.
   - Also, online study is comfortable and convenient. Since it doesn't require a fixed location, students don't need to travel to school or library to study, which is very convenient especially for those living far away from the campus. So they can make their own schedule and study anywhere and anytime they want. Learning in this way is fun and comfortable.
 
-
 ### 第二组：网络信息丰富了现代人的生活
 
 - 万能思路：网络、电子书使人阅读得更多，网络信息对生活带来的改变
@@ -170,6 +169,24 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 12, 2024)
   - Also, reading has become easy and convenient thanks to the technology innovation. For example, e-book devices like iPad or kindle make it possible for people to carry thousands of books in one hand all day long, so people can read as they go, and the frequency of reading maximized than before.
 
 ## Part-time Job
+
+- 万能思路：兼职打工让人成长，成熟；积累工作经验，对将来的事业有帮助
+- Reasons
+  - Grow up and become mature
+    - work experience -> realize -> making money is not easy
+    - handle money carefully
+    - not run over budget
+    - in order to get something, save money, instead of asking money from parents or friends
+    - financially responsible adult
+  - Work experience -> helpful -> future career
+    - look good on resume
+    - more chance -> be accepted / job hunting future
+      - hire those with practical skills, team work experience, and profession
+    - work experience -> people -> get into job quickly
+- 万能答案
+  - Personally speaking, I would definitely agree with my friend to work before heading to college.
+  - First, work experience can make my friend grow up and become mature, because it helps him realize making money is not easy. So he will learn to handle money carefully and never run over budget. Also he will understand in order to get something he wants, he needs to save money instead of asking for money from parents or friends. As a result, he will become a financially responsible adult.
+  - Secondly, having work experience will look good on the resume and may increase his chance to be accepted by companies during the job hunting in the future. The reasons that employers like to hire those who have completed internships or work experience since the practical skills, the team work experience, and the profession acquired can make him get into their new jobs more quickly than thos without such experience.
 
 # Tier 2
 
