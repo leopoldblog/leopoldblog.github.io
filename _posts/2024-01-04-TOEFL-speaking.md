@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Jan 15, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Jan 18, 2024)
 ---
 # Tier 1
 
@@ -191,6 +191,24 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 15, 2024)
 # Tier 2
 
 ## Environment
+
+- 万能思路：多种树，植物净化空气；少乘坐汽车
+- Reasons
+  - Photosynthesis
+    - create sufficient oxygen
+    - remove harmful chemicals from soil
+    - absorb carbon dioxide -> reduce the greenhouses
+    - reduce global warming
+  - Save energy
+    - reduce carbon emissions -> the greener environment
+    - cool your home in summer
+    - act as windbreaks in winter -> save energy from heating
+    - don't need air conditioner
+- 万能答案
+  - Personally speaking, I will plant trees to reduce air pollution.
+  - The first one is to plant trees as many as we can if we want to save our planet. Trees not only create sufficient oxygen for us to breathe and remove harmful chemicals from the soil, but also absorb carbon dioxide emission, thus helping reduce the greenhouse gases that lead to globe warming.
+  - Secondly, trees can help save energy. And saving energy can reduce carbon emissions. Since most energy sources require burning fossil fuels, the less energy you use, the greener the environment you have. For instance, if you plant trees in the right place around buildings, trees can help you save energy from heating. Then, you don't need air conditioner running 24 hours a day!
+  - People should reduce the amount of time you spend in the car. Carpool or use public transportation like a subway whenever you can. For shorter distances, walk or ride your bike to do errands. If most people avoid driving one or two days a week for a year, the air pollution would be greatly reduced. So we should raise people's awareness of enironment issue by telling them if they travel by subway, bus or bike. the environment will become better and better.
 
 ## Community Service
 
