@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Jan 18, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Jan 19, 2024)
 ---
 # Tier 1
 
@@ -211,6 +211,24 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 18, 2024)
   - People should reduce the amount of time you spend in the car. Carpool or use public transportation like a subway whenever you can. For shorter distances, walk or ride your bike to do errands. If most people avoid driving one or two days a week for a year, the air pollution would be greatly reduced. So we should raise people's awareness of enironment issue by telling them if they travel by subway, bus or bike. the environment will become better and better.
 
 ## Community Service
+
+- 万能思路
+  - 参与社会实践的学生可以变得更加乐观、开朗、热情、耐心；接触不同的人可以提高自己人际交往技能；增进对外面世界的了解和认知；为未来的学业事业铺路
+  - 最感兴趣的组织或俱乐部；学校活动；课外活动；志愿者活动
+- Reasons
+  - Become outgoing and patient
+    - serving for local community -> chance -> communicate with people
+    - in order to do well, become kind and open to others
+  - Imporve social and interpersonal skills
+    - co-workers / customers <- different background
+    - get insight into different people's thinking
+    - know how to socialize with ...
+    - increase interpersonal skill
+    - helpful -> career contact and study
+- 万能答案
+  - Personally speaking, I would like to participate in the local community service for following reasons.
+  - First, the experience of being a volunteer to work at the community service will change my personality from timid and shy to outgoing and patient, because it provides me with a chance to communicate with different people. In order to do well, I have to make myself become open and kind.
+  - Also, serving for the local community can improve my social and interpersonal skills. The reason is that my co-workers or customers are from different background; therefore, I have opportunity to get insight into different people's thinking thus know how to socialize with them. My interpersonal skills will be improved, which can be very helpful for my career contacts and study in the future.
 
 ## Clothing
 
