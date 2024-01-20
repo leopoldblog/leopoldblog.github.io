@@ -246,6 +246,9 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 20, 2024)
     - not afford to wear fashionable clothes, be ridiculed
     - dresses provocatively -> draw negative attention
 - 万能答案
+  - Every student in my school wears uniforms. And the style of the clothing is very simple; a nice pair of jeans with a comfortable shirt or jacket makes most studetns like to wear.
+  - We like to wear this kind of clothing not only because it looks nice on us, but also it simplifies our life. We do not have to waste time to dress up or worry about how we dress and look before other students if we are required to wear uniform to school only. Without distraction and worries on our appearance, we are able focus on our schoolwork and thus improve our learning outcomes.
+  - And the other reason we like the simple style of school clothing is that wearing fashionable clothes will give too much room for discrimination and judgment between students. A student who caanot afford to wear fashionable clothes could be rudiculed. A student who dresses provocatively will draw negative attention from other students.
 
 ## Learning from the Past
 
