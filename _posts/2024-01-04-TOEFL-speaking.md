@@ -232,6 +232,21 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 19, 2024)
 
 ## Clothing
 
+### 第一组：Benefit of School Uniform
+
+- 万能思路：穿什么风格的衣服：校服，方便简单，避免歧视和负面现象
+- Reasons
+  - Simple and convenient
+    - look nice, simplify our life
+    - do not have to waste time to dress up
+    - Without distraction and worries on their appearance
+    - focus on their schoolwork
+  - Avoiding discrimination and negatiue attention
+    - wearing fashionable clothes -> discrimination and judgment
+    - not afford to wear fashionable clothes, be ridiculed
+    - dresses provocatively -> draw negative attention
+- 万能答案
+
 ## Learning from the Past
 
 ## Food
