@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Jan 20, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Jan 22, 2024)
 ---
 # Tier 1
 
@@ -249,6 +249,15 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 20, 2024)
   - Every student in my school wears uniforms. And the style of the clothing is very simple; a nice pair of jeans with a comfortable shirt or jacket makes most studetns like to wear.
   - We like to wear this kind of clothing not only because it looks nice on us, but also it simplifies our life. We do not have to waste time to dress up or worry about how we dress and look before other students if we are required to wear uniform to school only. Without distraction and worries on our appearance, we are able focus on our schoolwork and thus improve our learning outcomes.
   - And the other reason we like the simple style of school clothing is that wearing fashionable clothes will give too much room for discrimination and judgment between students. A student who caanot afford to wear fashionable clothes could be rudiculed. A student who dresses provocatively will draw negative attention from other students.
+
+### 第二组：Personality vs. Style of Clothing
+
+- 万能思路
+  - 着装应该随我们的身份和所处场合而变
+- 万能答案
+  - People's clothing can tell about their personality, what they like, what they believe in, or even where they come from.
+  - First, what people wear can inform their employment as well as their work, surrounding and emotions. For example, when my brother was in college, he wore clothes like jeans, T-shirts, and sneakers, not only because he feels cool and comfortable to wear them, but also because his classmated and friends wear similar style of clothing and tend to influence with each other.
+  - However, once he graduated from college and started to work in the company, his surroudning and people around him changed, and his style of fashion changed as well. For example, he started to wear suits and dress up carefully. And his clothes and shoes all looked classic, because he tried to project a positive image before his colleagues and clients.
 
 ## Learning from the Past
 
