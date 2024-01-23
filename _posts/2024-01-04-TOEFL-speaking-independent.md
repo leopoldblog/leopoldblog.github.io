@@ -261,7 +261,7 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 23, 2024)
 
 ## Learning from the Past
 
-- 万能思路：从过去中学习
+- 万能思路：从自己的过去中/历史中学习
 - Reasons
   - The lessons from mistakes
     - offer a greater opportunity for success
