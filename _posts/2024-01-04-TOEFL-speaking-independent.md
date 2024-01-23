@@ -1,9 +1,9 @@
 ---
-title: Topics in TOEFL Speaking
+title: Topics in TOEFL Speaking (Independent)
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Jan 22, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Jan 23, 2024)
 ---
 # Tier 1
 
@@ -260,6 +260,20 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 22, 2024)
   - However, once he graduated from college and started to work in the company, his surroudning and people around him changed, and his style of fashion changed as well. For example, he started to wear suits and dress up carefully. And his clothes and shoes all looked classic, because he tried to project a positive image before his colleagues and clients.
 
 ## Learning from the Past
+
+- 万能思路：从过去中学习
+- Reasons
+  - The lessons from mistakes
+    - offer a greater opportunity for success
+    - once understand the problems -> avoid repeating them
+    - improve us on carefulness and efficency
+    - more experienced and professional
+  - Guide one's life
+    - past experience -> expensive lessons
+    - a great teather to guide our life -> success
+  - As I see it, we learn from our past, both from our success and our mistakes
+  - The reason is that the lessons we learn from our mistakes offer a greater opportunity for success in the future, because once we understand the problems and remenber the causes, we might be able to avoid repeating many of them again. For example, the past mistakes in our work can imporve us on how we think and how we handle our work more carefully and efficiently than before. As a result, we will become experienced and professional on our jobs and gain self-recognition and financial award.
+  - Although the past experience can be very expensive lessons, this is how we can learn and how the experience becomes a great teacher to guid our life toward success in the future.
 
 ## Food
 
