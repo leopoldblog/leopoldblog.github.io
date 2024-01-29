@@ -275,9 +275,27 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 23, 2024)
   - The reason is that the lessons we learn from our mistakes offer a greater opportunity for success in the future, because once we understand the problems and remenber the causes, we might be able to avoid repeating many of them again. For example, the past mistakes in our work can imporve us on how we think and how we handle our work more carefully and efficiently than before. As a result, we will become experienced and professional on our jobs and gain self-recognition and financial award.
   - Although the past experience can be very expensive lessons, this is how we can learn and how the experience becomes a great teacher to guid our life toward success in the future.
 
-## Food
-
 ## Challenge
+
+- 万能思路：在异国的最大挑战来自于和当地人的交流；交流障碍主要来自语言和心理
+- Reasons
+  - Language barrier
+    - local language -> not first language
+    - not communicate with the locals
+    - feel lost
+    - no friend -> lonely
+  - Emotional obstacle
+    - timid / shy in a new surrounding
+    - feel embarrassed when talking to the locals in their own language
+    - fear of making mistakes
+    - hold back
+    - not be willing to make friends
+- 万能答案
+  - Personally speaking, the most difficult challenge is to make new friends for the following reasons.
+  - The first barrier is from the language. Since the local language is not the first language, people might find it hard to communicate with the locals. As a result, they might feel lost and will be isolated from the rest of the society. Without friends, they feel lonely.
+  - Another reason is an emotional obstacle, because they are timid and shy in a new surrounding and might feel embarrassed when talking to the local people in their own language due to the fear of making mistakes. As a result, they hold back and are not willing to make friends.
+
+## Food
 
 # Tier 3
 
