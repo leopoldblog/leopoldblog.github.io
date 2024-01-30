@@ -28,4 +28,7 @@ Using  a  consistent  style  makes  your  code  more  approach-able  and  easier
 ### Naming
 
 - Protected instance attributes: `_leading_underscore`
-- Private instance attributes: `_double_leading_underscore`
+- Private instance attributes: `__double_leading_underscore`
+- Classes (including exceptions) should be in `CapitalizedWord` format
+- Module-level constants should be in `ALL_CAPS` format
+- Class methods should use `cls` (which refers to the class) as the name of the first parameter

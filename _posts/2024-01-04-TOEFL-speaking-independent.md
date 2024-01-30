@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking (Independent)
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Jan 29, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Jan 30, 2024)
 ---
 # Tier 1
 
@@ -296,6 +296,22 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 29, 2024)
   - Another reason is an emotional obstacle, because they are timid and shy in a new surrounding and might feel embarrassed when talking to the local people in their own language due to the fear of making mistakes. As a result, they hold back and are not willing to make friends.
 
 ## Food
+
+- 万能思路：如何吃得健康，食品的重要性
+- Reasons
+  - Good health
+    - low calories, high-quality proteins, and vitamins, minerals
+    - keep body strong and fit -> esp. young people
+    - look good & feel great and happy
+  - No diseases, study well
+    - have long periods of concentration
+    - confront with heavy workloads
+    - if not healthy -> increase weights & chance of getting illness
+    - study -> affected
+- 万能答案
+  - First, a healthy and well-balanced diet is the key to good health. Students should eat healthy food of low calories, high-quality proteins, and vitamins, minerals in order to keep their body strong and fit. It is especially very important for young people, whose bodies are growing. When they eat healthy, they wil not only look, but also feel great and happy every day.
+  - Also, if young people are happy and healthy, they are unlikely to be affect by diseases. As a resutl, they could have long periods of concentration when studying. And their body can allow them to confront with heavy workloads from studies. However, if they eat unhealthy food, they would increase their weights and increase the chance of getting illness. Their study will be affected. So keep a healthy diet is too important to be ignored
+  - Since dietary habits established in the early age often carry into adulthood, so teaching them how to eat healthy at a young age will help them stay healthy throughout their life.
 
 # Tier 3
 
