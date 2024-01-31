@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking (Independent)
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Jan 30, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Jan 31, 2024)
 ---
 # Tier 1
 
@@ -316,6 +316,24 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 30, 2024)
 # Tier 3
 
 ## Study Alone
+
+- 万能思路：在安静的地方学习提高效率，人多的地方无法集中注意力
+- Reasons
+  - Increasing learing efficacy
+    - a quiet place e.g. library or study room -> increasing efficacy
+    - no noise & distraction
+    - others -> keep eyes -> books & work hard
+    - I concentrate / environment
+    - get more works done
+  - Dorm / group -> can't focus
+    - but if dormitory or group, can't focus
+    - be disturbed
+    - problems & discussion
+    - roommates -> TV, radio, parties
+- 万能答案
+  - Personally speaking, I prefer to study in a quiet place such as library or study room to have better learning efficiency, because there is no noise or distraction.
+  - First, since everybody else keeps their eyes on books or work hard on their assignments, I will be able to concentrate on my studies in such environment and thus get more works done.
+  - However, if I study in dormitory or with friends in a group, I cannot focus well, because I will be constantly disturbed by others' problems and discussion or the noise from my roommates watching TV, listening to radio, or having parties.
 
 ## Language
 
