@@ -337,7 +337,7 @@ description: Topics in TOEFL Speaking. (Last Update on Feb 1, 2024)
 
 ## Language
 
-- 万能思路：描述课程（语言课很重要）
+- 万能思路：描述课程（语言课很重要）, homestay, ability to acquire
 - Reasons
   - Useful
     - communicate with the locals / travel -> countries
