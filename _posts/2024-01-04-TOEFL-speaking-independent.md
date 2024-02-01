@@ -337,6 +337,26 @@ description: Topics in TOEFL Speaking. (Last Update on Jan 31, 2024)
 
 ## Language
 
+- 万能思路：描述课程（语言课很重要）
+- Reasons
+  - Useful
+    - communicate with the locals / travel -> countries
+    - e.g. U.S., England, Canada, Australia
+    - exchange ideas & expand outlook
+    - make friends
+    - otherwise
+      - can't express myself
+      - can't adapt to the environment
+      - can't understand class
+    - life -> easy & enjoyable if English
+  - Competitive / job
+    - many companies -> candidates -> English skill
+    - more chance > others -> be accepted if bi-lingual ability
+- 万能答案
+  - Personally speaking, the subject that is important is English. And I have two reasons.
+  - First, English is a very useful skill in socializing with the locals when traveling in the countries like the U.S., England, Canada, and Australia. For example, I can exchange ideas and expand my outlook or even make some local friends if my English is good. Otherwise, I won't be able to express myself to others, adapt to the environment, and even understand my class. My life will be easier and more enjoyable with good English skill.
+  - Also, since many companies in my country require candidated with good English skill, I would have more chance to be accepted than others if I can acquire bi-lingual communication ability.
+
 ## Event
 
 ## Transportation
