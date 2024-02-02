@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking (Independent)
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Feb 1, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Feb 2, 2024)
 ---
 # Tier 1
 
@@ -358,6 +358,23 @@ description: Topics in TOEFL Speaking. (Last Update on Feb 1, 2024)
   - Also, since many companies in my country require candidated with good English skill, I would have more chance to be accepted than others if I can acquire bi-lingual communication ability.
 
 ## Event
+
+- 万能思路
+  - 节日、生日或家庭聚会
+  - 聚会很欢快，可以释放压力
+- Reasons
+  - Family reunion
+    - went back home from school
+    - a big family, a joyful moment <- party
+    - fun and relaxing
+    - make and have dinner together
+    - watch movie or play games
+    - refresh my mind, allay my tension
+    - strengthen relationship with friends & family member
+    - conversation brings laugh and inspiration
+- 万能答案
+  - The event I have recently participated in is my family reunion. I went back home from school and got to gether with my friends, relatives, and parents during my holiday. Since I am from a big family, it was a joyful moment when having dinner and party with them. And it is especially fun and relaxing for me, because I study far away from home and thus feel that I need to cherish the time with those I love.
+  - So we made and had dinner together and then I watched movies and played games with my sisters and brothers. These things can really refresh my mind and allay my tension from study. Most importantly, family reunion can strengthen my relationship with my friends and family members. The conversation brought us laugh and inspiration, and everybody had a great time.
 
 ## Transportation
 
