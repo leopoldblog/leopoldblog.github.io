@@ -32,3 +32,13 @@ Using  a  consistent  style  makes  your  code  more  approach-able  and  easier
 - Classes (including exceptions) should be in `CapitalizedWord` format
 - Module-level constants should be in `ALL_CAPS` format
 - Class methods should use `cls` (which refers to the class) as the name of the first parameter
+
+### Imports
+
+- Always put `import` statemetns at the top of a file.
+- Orders (each in alphabetical order)
+  - standard library modules
+  - third-party modules
+  - your own modules
+
+## Know the difference Between `bytes` and `str`

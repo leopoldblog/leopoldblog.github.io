@@ -397,6 +397,25 @@ description: Topics in TOEFL Speaking. (Last Update on Feb 3, 2024)
 
 ## Transportation
 
+- 万能思路：地铁准时、快捷
+- Reasons
+  - Fast
+    - underground
+    - avoid traffics /road
+    - visit places / short time
+    - e.g. arrive at school or work on time
+  - Convenient
+    - frequency -> improved
+    - train -> few minutes / rush hour
+    - not wait for a long time
+    - stations -> places / people live and work
+    - easy -> reach
+    - efficient and easy way of traveling /city
+- 万能答案
+  - Personally speaking, I enjoy taking subway when traveling in my city. And I have two reasons.
+  - First, the subway is fast, because it goes underground and can avoid a lot of traffics on the road. People therefore can visit many places in a short time. For example, they can arrive at school or work on time without being late.
+  - Also, traveling through the subway is convenient, because the frequency of the train has been improved. Since the trains come in a few minutes especially during the rush hour, people don't need to wait for a long time. Plus, the stations are located near the places where many people live and work, therefore, they are easy to reach.
+
 ## Library
 
 # Tier 4
