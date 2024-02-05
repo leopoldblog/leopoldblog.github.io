@@ -418,6 +418,24 @@ description: Topics in TOEFL Speaking. (Last Update on Feb 4, 2024)
 
 ## Library
 
+- 万能思路
+  - 拥有丰富藏书的图书馆对于学生的学习的益处：安静，且能为人们提供很多有用的资料
+- Reasons
+  - Quiet
+    - people (libarary) not speak too loud & focus on readings / studies
+    - good setting -> reading & long periods of concentration
+    - increase efficacy / working
+    - relax / reading
+  - Full of useful resources
+    - e.g. journaals, magazines, articles, and Internet access
+    - I -> info / research papers or reading for fun
+    - stay for long periodds / library, don't need to leave
+- 万能答案
+  - Personally speaking, I would suggest building a public library if I have piece of empty land. And I have two reasons.
+  - First, it's quiet, because people in the library never speak too loud, but focus on their readings or studies. So the library is an especially a good setting for studying and long periods of concentration. And people's work efficiency can be maximized and they can also relax when reading.
+  - Secondly, the library provides people with full of useful resources ssuch as journals, magazines, articles, and Internet access. So they can find the information they need when doing research papers or reading for fun.
+  - Most importantly, they can stay for long periods in the library and not needd to leave.
+
 # Tier 4
 
 ## Team Spirit
