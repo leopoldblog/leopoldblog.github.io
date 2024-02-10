@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking (Independent)
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Feb 6, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Feb 10, 2024)
 ---
 # Tier 1
 
@@ -440,7 +440,45 @@ description: Topics in TOEFL Speaking. (Last Update on Feb 6, 2024)
 
 ## Team Spirit
 
+- 万能思路：通过团队协作解决一个人无法完成的任务，最终提升了工作效率
+- Reasons
+  - Benefits of teamwork
+    - Promotes cooperation
+      - Overcome obstacles
+      - enhance efficiency
+      - improve performances
+    - Encourages socialization and communication
+      - a sense of job satisfaction
+      - bring self-confidence
+      - bring friendship
+- 万能答案
+  - Teamwork in the workplace
+    - Last summer, I was in an internship, cooperating wiht my colleague to solve problems for a project. The experience allows me to learn two important things of working in a team.
+    - First, we helped each other in the team, which brought every one of us a great sense of job satisfaction. During the project, we had a lot of problems, but members in our team share their skills and experience to help each other and thus we overcame every obstacle and improved our performance in the work.
+    - Another imporatant thing I learned from working in a team is that cooperation can solve problems more quickly than working in isolation. For instance, questions may be answered more quickly and also the group may avoid certain mistakes, because some members of the team might have gone through some problems before. Therefore, the work efficiency and reputation of the team can be improved.
+  - Benefits of teamwork in sports
+    - No sports team is successful without working together to reach a common goal.
+    - First, teamwork in sports promotes cooperation. Every member of the team can learn how to better cooperate with thir teammates, even if they do not particularly like each other. Cooperation means putting differences aside for the greater good of the. team. As a result, people would become more tolerant and friendly to others than they were.
+    - Second, working together on a sports team encourages socialization and communication. People in the sport team like the basketball one can share a common interest and learn some practical skills from each other. This experience can bring friendship and ocnfidence of socializaing with other people. For example, if you are shy and timid, the teamwork in sports can make you become positive and outgoing.
+
 ## Presentation
+
+- 万能思路
+  - 面试，公共演讲，演说
+- Reasons
+  - Be familar with the topic
+    - certain: presenting accurate information
+    - be able to answer questions
+    - increase confidence
+    - practive at least 7 to 10 times
+  - Change attitude
+    - change how he sees audience
+    - seeing audiences as lecturers -> fellow students
+    - all equal -> no reason to be nervous
+- 万能答案
+  - There are two suggestions for my friend to deal with his speech anxiety.
+  - First, he needs to know his topic well. If he has researched the topic thoroughly, he will be certain that he is presenting accurate information and he will be able to answer questions that the audience may ask. These things will greatly increase his confidence. After he has prepared his speech, he needs to practice at least 7 to 10 times before his actual presentation.
+  - Also, he needs to change how he sees his audience. This means, instead of seeing them as lecturers who are evaluating him, maybe he can convince himself that they are all fellow students who are all equally nervous so there is no reason why he should be nervous too.
 
 ## College Education
 
