@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking (Independent)
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Feb 10, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Feb 11, 2024)
 ---
 # Tier 1
 
@@ -481,6 +481,24 @@ description: Topics in TOEFL Speaking. (Last Update on Feb 10, 2024)
   - Also, he needs to change how he sees his audience. This means, instead of seeing them as lecturers who are evaluating him, maybe he can convince himself that they are all fellow students who are all equally nervous so there is no reason why he should be nervous too.
 
 ## College Education
+
+- 万能思路
+  - 学校，教育
+- Reasons
+  - Good for finding a job
+    - can't get a good job without a college degree
+    - w/o a high school diploma -> can't go to college -> no good job
+    - attend college -> a greater career/high salary/a free lifestyle/happy life
+  - Become mature
+    - one of the most important things -> responsible and mature
+    - acquire knowledge
+    - get along well with others, cooperate in a group
+    - manage time, learn to work under great pressure
+    - achieve better work and life in their future
+- 万能答案
+  - I definitely agree all children under the age of 16 should attend schollo. Or all children should go to school.
+  - First, the children today don't realize how hard it will be to get a good job without a college degree. And without a high school diploma, children can't go to college and they might as well just accept that they will be working at McDonalds or KFC. If they want to choose a great career with high salary which allows them to live a free lifestyle and happy life, then young children must attend and finish high school and college.
+  - Also, education is one the most important things they will ever need to become a responsible and mature adults, because they can not only acquire knowledge, but also learn how to get along well with others, cooperate in a group, manage their time, and learn to work under great pressure. All of these will help them achieve better work and life in their future.
 
 ## Family
 
