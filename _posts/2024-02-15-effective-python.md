@@ -41,4 +41,15 @@ Using  a  consistent  style  makes  your  code  more  approach-able  and  easier
   - third-party modules
   - your own modules
 
-## Know the difference Between `bytes` and `str`
+## Prefer `enumerate` Over `range`
+
+## Prevent Repetition with Assignment Expressions
+
+```python
+count = fresh_fruit.get('apple', 0)
+if count >=4:
+	make_cider(count)
+
+if (count := fresh_fruit.get('apple', 0)) >=4:
+	make_cider(count)
+```

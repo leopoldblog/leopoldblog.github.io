@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking (Independent)
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Feb 11, 2024)
+description: Topics in TOEFL Speaking. (Last Update on Feb 12, 2024)
 ---
 # Tier 1
 
@@ -501,6 +501,23 @@ description: Topics in TOEFL Speaking. (Last Update on Feb 11, 2024)
   - Also, education is one the most important things they will ever need to become a responsible and mature adults, because they can not only acquire knowledge, but also learn how to get along well with others, cooperate in a group, manage their time, and learn to work under great pressure. All of these will help them achieve better work and life in their future.
 
 ## Family
+
+- 万能思路
+  - 离家人近，向家人寻求建议，同家人在一起
+- Reasons
+  - Emotional strength
+    - build a good family environment
+    - happy & release stress
+    - e.g. cook with wife, play video games with kids
+    - go out for movies or a walk after dinner
+  - Work support
+    - know him better than anyone else
+    - when stressful and depressed -> comfort him
+    - always be with him -> bring confidence
+- 万能答案
+  - Personally speaking, I would suggest my friend not take this job, because it is far away from his family, and he needs to spend time with his family. And I have two reasons.
+  - First, having more time with family can helo my friend build a good family environment. And a good family bond can make him happy and help hime release his stress from work. For example, he can cook with his wife, play video games with his kid, and go out for movies or even take a walk after dinner with the family members to have fun and relax.
+  - Also, family is the biggest source of support for him to perform well on his job, because family members know him better than anyone else. Thus, family can comfort him when he feels stressful and depressed. And family members always be with him and bring him confidence to face the challenge in his career.
 
 ## Historical Relics
 
