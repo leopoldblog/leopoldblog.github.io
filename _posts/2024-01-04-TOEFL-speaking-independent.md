@@ -521,4 +521,21 @@ description: Topics in TOEFL Speaking. (Last Update on Feb 12, 2024)
 
 ## Historical Relics
 
+- 万能思路
+  - 参观，旅游，古老
+- Reasons
+  - 了解国家的历史文化
+    - When visiting a new place -> don't know local people & culture
+    - museum -> provide knowledge
+    - e.g. local people's tradition, lifestyles or food
+  - 欣赏艺术作品
+    - see unique masterpieces
+    - feel artists' emotion -> can't through TV & Internet
+    - a bridge between people & a place
+- 万能答案
+  - I would like to take foreigners to visit museums for the following reasons.
+  - First, museums give them chances to know better about the past history and culture of the country. When they travel to a new place, they don't know much about the local people and the culture, but visiting museums can provide them with the knowledge about how local people live, what their tradition, lifestyles or food is like.
+  - Also, when visiting museums, foreighers will be able to see unique masterpieces or arts and feel the emotion of the artists, which they can't feel by just watching it on TV or on the Internet. Museums are the places where centuries and centuries of history are hidden. It is like a bridge between people and a place.
+  - So foreigners should visit museums to access to thehistory, the culture, the tradition and the arts of the place.
+
 ## Living Standard
