@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking (Independent)
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. (Last Update on Feb 12, 2024)
+description: Topics in TOEFL Speaking. 
 ---
 # Tier 1
 
@@ -539,3 +539,21 @@ description: Topics in TOEFL Speaking. (Last Update on Feb 12, 2024)
   - So foreigners should visit museums to access to thehistory, the culture, the tradition and the arts of the place.
 
 ## Living Standard
+
+- 万能思路：生活水平，社会进步
+- Reasons
+  - high-tech makes life easier
+    - computers, laptops, mobiles etc. -> easier and more convenient
+    - order pizza/call a cab/go online shopping
+    - banking / find business
+  - Information exchange is more smooth
+    - text message/wechat/talk -> friends far away
+    - share the up-to-date news and event
+    - well-informed -> what's happening around the world
+    - changes the way we live and think
+    - open up our mind
+    - find life happy and comfortable
+- 万能答案
+  - Indeed, our living standard has been improved thanks to the science and technology innovation.
+  - First, computers, laptops, mobiles are the products of science and technology and make our life easier and more convenient than before. For instance, we can order pizza, call a cab, go online shopping, banking or even find business opportunity through cell phones or laptops.
+  - Also, technology improves our life far beyond what we had expected. For example, we can text message, WeChat, or talk to our friends living far away from us or in another country to share the up-to-date news and event. It influence on our life is more than just to be well-informed what's happening around the world, but also changes the way we live and think. The shared experience and information can open up our mind to different lifestyles and make us find the kind of life we feel happy and comfortable.
