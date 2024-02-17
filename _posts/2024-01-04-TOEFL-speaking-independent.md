@@ -3,7 +3,7 @@ title: Topics in TOEFL Speaking (Independent)
 tags: [TOEFL]
 style: fill
 color: warning
-description: Topics in TOEFL Speaking. 
+description: Topics in TOEFL Speaking.
 ---
 # Tier 1
 
