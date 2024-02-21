@@ -1,7 +1,7 @@
 ---
 title: Quantization Basic
 tags: [Quantization, Math]
-style: danger
+style: fill
 color: info
 description: Basic knowledge of quantization.
 ---
@@ -99,6 +99,7 @@ But it is less clear for activations, and different approaches exist:
     - simulate the error induced by quantization to let the model adapt to it
 
 #### Calibration techniques
+
 - Min-max: `[min observed value, max observed value]`
 - Moving average min-max: `[moving average min observed value, moving average max observed value]`
 - Histogram: records a histogram of values along with min and max values, then chooses according to some criterion
@@ -107,7 +108,9 @@ But it is less clear for activations, and different approaches exist:
   - Percentile: using a given percentile value `p` on the observed values. The idea is to try to have `p%` of the observed values in the computed range.
 
 ## How do machines represent numbers?
+
 ### Real numbers representation
+
 - Fixed-point: there are fixed number of digits reserved for representing the integer part and the fractional part
 - Floating-point: the number of digits for representing the integer and the fractional parts can vary
   - The sign bit: this is the bit specifying the sign of the number
@@ -123,9 +126,11 @@ But it is less clear for activations, and different approaches exist:
     - 53 bits in float64 (52 explictly stored)
 
 For a real number `x` we have
+
 $$
 x = sign \times mantissa \times (2^{exponent})
 $$
 
 # Going Further
+
 Lei Mao's blog about [Quantization for Neural Networks](https://leimao.github.io/article/Neural-Networks-Quantization/).
