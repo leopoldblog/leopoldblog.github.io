@@ -1,7 +1,7 @@
 ---
 title: The Matrix Calculus You Need For Deep Learning
 tags: [Notes, Math, Interview]
-style: danger
+style: fill
 color: info
 description: Notes of The Matrix Calculus You Need For Deep Learning
 ---
@@ -263,6 +263,7 @@ $$
 $$
 
 That is:
+
 $$
 \frac{\partial activation}{\partial w} = 
 \begin{cases}
@@ -272,6 +273,7 @@ $$
 $$
 
 the derivative of the neuron activation with respect to b:
+
 $$
 \frac{\partial activation}{\partial b} = 
 \begin{cases}
@@ -279,16 +281,18 @@ $$
     1 \frac{\partial z}{\partial b} = 1, w \cdot x +b > 0\\
 \end{cases}
 $$
+
 ## The gradient of the neural network loss function
 
 Assume the cost equation is:
+
 $$
 C(w, b, X, y) = \frac{1}{N} \Sigma_{i=1}^N (y_i - activatation(x_i))^2 = \frac{1}{N} \Sigma_{i=1}^N (y_i - max(0, w \cdot x_i +b))^2
 $$
 
 ### The gradient with respect to the weights
-Let $v = y - u$, $u = max(0, w \cdot x + b)$
 
+Let $v = y - u$, $u = max(0, w \cdot x + b)$
 
 $$
 \frac{\partial C(v)}{\partial w} = \frac{2}{N} \Sigma_{i=1}^N v \frac{\partial v}{\partial w}
@@ -300,6 +304,7 @@ $$
 $$
 
 ### The gradient with respect to the bias
+
 $$
 \frac{\partial C(v)}{\partial b} = \frac{2}{N} \Sigma_{i=1}^N v \frac{\partial v}{\partial b}
 \\ = \frac{2}{N} \Sigma_{i=1}^N
